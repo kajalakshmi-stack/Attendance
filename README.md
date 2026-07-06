@@ -1,1 +1,1 @@
-An AI-powered Internship Attendance Management System for managing student attendance, monitoring performance, generating smart analytics with Gemini AI, and providing a secure admin dashboard. Built using React, TypeScript, Express.js, PostgreSQL, Drizzle ORM, and Tailwind CSS.
+A modern Company Employee Attendance Management System designed to efficiently track employee attendance, monitor daily presence, manage attendance records, generate attendance reports, and provide a secure admin dashboard. Built with React, TypeScript, Express.js, PostgreSQL, and Tailwind CSS.

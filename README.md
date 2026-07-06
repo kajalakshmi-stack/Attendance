@@ -81,3 +81,35 @@ Provides accurate attendance reports
 Improves workforce monitoring
 Secure and centralized employee data management
 Easy-to-use responsive interface suitable for companies of any size
+
+Technologies Used
+
+The application is built using modern web technologies that work together to provide a secure, responsive, and scalable attendance management system.
+
+1. React (Frontend)
+
+React is a JavaScript library used to build the user interface of the application. It creates interactive and dynamic web pages such as the login page, dashboard, employee list, and attendance management screens. React updates only the required parts of the webpage, making the application faster and improving the user experience.
+
+2. TypeScript
+
+TypeScript is an enhanced version of JavaScript that adds static typing. It helps developers detect errors during development, improves code readability, and makes the application easier to maintain, especially as the project grows.
+
+3. Express.js (Backend)
+
+Express.js is a lightweight web framework for Node.js. It handles all server-side operations such as processing user requests, authenticating administrators, communicating with the database, and returning responses to the frontend.
+
+4. PostgreSQL (Database)
+
+PostgreSQL is a powerful relational database management system used to store and organize application data. It securely stores employee details, attendance records, and administrator login information while ensuring data integrity and reliability.
+
+5. Drizzle ORM
+
+Drizzle ORM is an Object Relational Mapping (ORM) tool that simplifies database operations. Instead of writing complex SQL queries, developers can use TypeScript code to create, read, update, and delete records, making development faster and reducing errors.
+
+6. Tailwind CSS
+
+Tailwind CSS is a utility-first CSS framework used to design the application's interface. It helps create a modern, responsive, and professional-looking layout with less custom CSS code, ensuring the application works well on desktops, tablets, and mobile devices.
+
+7. JWT (JSON Web Token) Authentication
+
+JWT Authentication provides secure access to the application. After a successful admin login, the server generates a secure token that verifies the administrator's identity for future requests. This prevents unauthorized users from accessing protected pages and ensures secure session management.
